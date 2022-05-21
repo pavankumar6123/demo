@@ -1,2 +1,2 @@
 # demo
-webdite
+webiste
